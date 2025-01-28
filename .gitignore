@@ -148,3 +148,5 @@ arch/arm64/boot/dts/vendor/
 # logs
 build1.log
 build2.log
+
+build/
